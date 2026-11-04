@@ -89,6 +89,7 @@ Measures how far an animated object travels between two frames and converts that
 _(breakdown)_
 
 <img src="media/speedometer.png" alt="Speedometer" width="80%">
+
 ## USD
 
 ### Animation Variant Output System ![Maya](https://img.shields.io/badge/Maya-36A9AE?style=flat-square)
