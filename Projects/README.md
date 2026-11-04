@@ -38,7 +38,7 @@ _(breakdown)_
 
 This tool allows compositors to quickly update and render the selected shots for reviews in dailies. (UI credits to Victor Luong.)
 
-<img src="media/comp-updater-1.png" alt="Comp Updater" width="50%"><img src="media/comp-updater-2.png" alt="Comp Updater" width="50%">
+<img src="media/comp-updater.png" alt="Comp Updater" width="80%">
 
 _(breakdown)_
 
@@ -48,7 +48,7 @@ _(breakdown)_
 
 This tool assembles a shot template in Nuke that brings in the render passes and camera.
 
-<img src="media/comp-builder-1.png" alt="Comp Builder" width="50%"><img src="media/comp-builder-2.png" alt="Comp Builder" width="50%">
+<img src="media/comp-builder.png" alt="Comp Builder" width="80%">
 
 _(breakdown)_
 
@@ -58,7 +58,8 @@ _(breakdown)_
 
 Generates a diagnostic graph for lighting review.
 
-<img src="media/lighting-diagnostics-script.png" alt="Lighting Diagnostics" width="50%"><img src="media/lighting-diagnostics-output.png" alt="Lighting Diagnostics" width="50%">
+<img src="media/lighting-diagnostics-script.png" alt="Lighting Diagnostics" width="50%">
+<img src="media/lighting-diagnostics-output.png" alt="Lighting Diagnostics" width="50%">
 
 _(breakdown)_
 
@@ -93,7 +94,7 @@ _(breakdown)_
 
 ### Animation Variant Output System ![Maya](https://img.shields.io/badge/Maya-36A9AE?style=flat-square)
 
-<img src="media/anim-variant-1.png" alt="Animation Variant Output System" width="50%"><img src="media/anim-variant-2.png" alt="Animation Variant Output System" width="50%">
+<img src="media/anim-variant.png" alt="Animation Variant Output System" width="50%">
 
 _(breakdown)_
 
